@@ -3,7 +3,7 @@ import cv2
 # Image 1
 img_raw = 'car1.jpg'
 
-img_raw = "img_cars/cars_back/car1.jpg"
+img_raw = "images/img_cars/cars_back/car1.jpg"
 
 # pre-trained car classifier
 trained_classifier = 'car_detector.xml'
