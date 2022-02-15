@@ -13,9 +13,9 @@ The design ddocs will be updated. Old versions will not be removed, but archived
 Team: 
 
 Tech Lead:
-Authors: Goktug Erol (https://www.github.com/Cyber9unk | https://cyber9unk.weebly.com )
-Reviewers: Goktug Erol (https://www.github.com/Cyber9unk ||https://cyber9unk.weebly.com |)
-UI : Goktug Erol (https://www.github.com/Cyber9unk | https://cyber9unk.weebly.com | )
+Authors: Goktug Erol (https://www.github.com/Cyber9unk | https://cyber9unk.weebly.com | arch_devs@protonmail.com )
+Reviewers: Goktug Erol (https://www.github.com/Cyber9unk ||https://cyber9unk.weebly.com | arch_devs@protonmail.com)
+UI : Goktug Erol (https://www.github.com/Cyber9unk | https://cyber9unk.weebly.com | arch_devs@protonmail.com )
 
 Communication and Project Management:
 
