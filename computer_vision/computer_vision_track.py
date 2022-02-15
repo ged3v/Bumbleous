@@ -5,7 +5,7 @@ img_raw = 'car1.jpg'
 img_raw = "images/img_cars/cars_back/car1.jpg"
 
 # pre-trained car classifier
-trained_classifier = 'car_detector.xml'
+trained_classifiers = 'car_detector.xml'
 
 # create an opencv image
 img = cv2.imread(img_raw)
@@ -15,7 +15,7 @@ gray_scale = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
 
 # Create a car classifier
-car_tracker = cv2.CascadeClassifier(trained_classifier)
+car_tracker = cv2.CascadeClassifier(trained_classifiers)
 
 
 # Display image with car's spotted.
