@@ -36,6 +36,7 @@ Programming Languages
 (More languages can be added as the project develops.)
 
 - Python Anaconda 3.9.7
+- C++ for the OS
 
 Libraries & Classes
 
@@ -75,12 +76,16 @@ when it's connected you will have autopilot in your car that probably doesn't ev
  - I will be developing a computer vision technology that will scan all the objects surrounding the car for safe travel and safety of the elements around the car.
  - Therefore the vehicle will be able to detect and tell the driver (and to future core ai system) the targets in the traffic (cars, pedestrians, other obstacles)
  - To do this, I need to introduce these objects to the machine with some graphics and real photos.
- - Photos are taken from Google Earth and Google search results. Black and White photos recognized by the AI easier than colorful photos.
+ - Photos are taken from Google Earth and Google search results. Grayscale photos recognized by the AI easier than colorful photos.
  - This is a simple proccess, similar technology is used for parking sensors and new cars that already have cameras and doing the exact same thing.
  - Algorithm is based on contrast graphics. All the algorithm details will be shared here when ready. 
 
-
- --
+Operating System
+- An operating System that AI can interract and use mechanical parts of the vehicle is necessary.
+- Operating System must allow optimization and changes depends on car type.
+- When people get the product they should download the compatible version of the software that is suitable for their vehicel. (these versions will be developped by time and require special research on their specs similar to simulation and game developments.)
+- The first car to try this project will be according to classical Volkswagen Beattle.
+--
  
  What comes next?
  - The Tracking AI needs to be tested once it's done.
