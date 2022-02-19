@@ -25,5 +25,5 @@
 
 ----------------
 
-V0.0.01 SS
+v0.00.001 SS
 <img src="https://github.com/cyber9unk/Bumbleous/blob/main/screenshots/Screenshot%202022-02-19%2021.36.34.png?raw=true">
