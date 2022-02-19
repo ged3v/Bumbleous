@@ -24,3 +24,6 @@
 - If you like this project and want to be part of it, please don't hesitate to contact me to be a volunteered contrubuter.
 
 ----------------
+
+V0.0.01 SS
+https://github.com/cyber9unk/Bumbleous/blob/main/screenshots/Screenshot%202022-02-19%2021.36.34.png?raw=true
