@@ -17,8 +17,9 @@
 - Special thanks to Aaron Bernath from Clever Programmer team.
 
 ---------------- 
-- Please don't forget to read wiki for details.
+
 - If you like this project and want to be part of it, please don't hesitate to contact me to be a volunteered contrubuter.
+- You can contact me via e-mail, twitter or LinkedIN for details.
 
 ----------------
 
