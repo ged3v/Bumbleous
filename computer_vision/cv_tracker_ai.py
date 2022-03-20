@@ -32,7 +32,7 @@ while True:
         cv2.rectangle(frame, (x,y), (x+w, y+h), (0,0,255), 2) 
 
         # display the image with the cars spotted
-    cv2.imshow('Clever Programmer Car Detector', frame) #img color and #black_white 
+    cv2.imshow('TheCarDetector', frame) #img color and #black_white 
 
 
   # Wait for keypress.
