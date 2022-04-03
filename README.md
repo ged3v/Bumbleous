@@ -18,7 +18,6 @@ This is not even %1 of the plan. The ai is not good enough, I need to improve it
 Goktug Erol
 
 [![GitHub goktugerol](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goktugerol)  
-[![Twitter: Goktug](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ge_dev_) </h2>
   
 <h4 align='center'>
 <h4 align='center'>
