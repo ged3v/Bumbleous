@@ -22,7 +22,7 @@ Goktug Erol
   
 <h4 align='center'>
 <h4 align='center'>
-https://machine-code.tumblr.com/ </h4>
+https://silver-raider.tumblr.com/ </h4>
 
 <h2 align='center'>
 
