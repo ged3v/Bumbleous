@@ -16,11 +16,11 @@ However, the ai is only a small part of the project, the main goal is to make a 
 
 
 <h2 align='center'>
-Detroit Roots
+Luca Ross
 
-[![GitHub Detroit](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DetroitRoots)  
+[![GitHub Luca](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucadiRoss)  
   
 <h4 align='center'>
 <h4 align='center'>
-https://detroitroots.tumblr.com/ </h4>
+ </h4>
   
