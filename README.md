@@ -16,9 +16,9 @@ However, the ai is only a small part of the project, the main goal is to make a 
 
 
 <h2 align='center'>
-Luca Ross
+Goktug Erol
 
-[![GitHub Luca](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucadiRoss)  
+[![GitHub Goktug](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goktugerol-dev)  
   
 <h4 align='center'>
 <h4 align='center'>
